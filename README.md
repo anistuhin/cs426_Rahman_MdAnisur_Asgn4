@@ -41,6 +41,6 @@ Different PC parts i.e. RAM, CPU, Hard Drives, Power Supply, Monitor, Keyboard, 
 
 **Addressing the deliverables**
 1. Enhanced the gamae by fixing the player jumping on collision issue, adding decrementing scores on collision to yellow poles, hence the unusual rules now works
-2. Added/replicated a few physics constructs like adding collisionns to yellow posts and decrementing scores, adding collissions with other still objects like vase, crates and not make  the main character keep flying(error from HW2) from HW2 as replication is allowed and also fixed the collision issue to make the unusual rules work
+2. Added/replicated a few physics constructs like adding collisionns to yellow poles and decrementing scores as well as destryoying them to avoid redundancies, adding collissions with other still objects like vase, crates and not make  the main character keep flying(error from HW2) from HW2 as replication is allowed and also fixed the collision issue to make the unusual rules work
 3. Added one more billboard stating the game rules laong with the previous one witht eh serious question
 4. Added spotlosights on each of those billboards t attract attentions, added colors too
